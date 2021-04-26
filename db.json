@@ -1,0 +1,28 @@
+{
+    "cursos" : [
+        {
+            "id": 1,
+            "titulo": "Go desde cero",
+            "image":
+                "https://images.pexels.com/photos/265614/pexels-photo-265614.jpeg?w=1260&h=750&auto=compress&cs=tinysrgb",
+            "price": 50,
+            "profesor": "Alexys Lozada"
+        },
+        {
+            "id": 2,
+            "titulo": "Python desde cero",
+            "image":
+                "https://images.pexels.com/photos/265614/pexels-photo-265614.jpeg?w=1260&h=750&auto=compress&cs=tinysrgb",
+            "price": 20,
+            "profesor": "Alvaro Felipe"
+        },
+        {
+            "id": 3,
+            "titulo": "Php desde cero",
+            "image":
+                "https://images.pexels.com/photos/265614/pexels-photo-265614.jpeg?w=1260&h=750&auto=compress&cs=tinysrgb",
+            "price": 30,
+            "profesor": "Max Camina"
+        }
+    ]
+}
